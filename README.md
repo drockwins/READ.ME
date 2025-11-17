@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Sr. D😉  
   
-- 🔭 Atualmente trabalho com Servidores de produção bancária.
-- 🌱 Estudando HTML5, CSS3, JS, React...
+- 🔭 Atualmente trabalho com Suporte Corporativo a Empresas
+- 🌱 Estudando para DevSecOps e Cursando Segurança da Informação.
 - 💬 Pergunte-me sobre: Ciência, astronomia, viagens temporais, teorias e TI.
-- 📫 E-mail Profissional: dieyzon.rocha@atp.com.br
+- 📫 E-mail Profissional: dieyzon.rocha@gmail.com.br
 - 🌎 Portfólio: https://dieyzonrocha.github.io/DieyzonRocha/
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Sou imortal.
@@ -40,8 +40,7 @@
     <a href="mailto:dieyzonrocha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
   </div>
-  
-  ![snake gif](https://github.com/Dieyzonrocha/Dieyzonrocha/blob/output/github-contribution-grid-snake.svg)
+
   
   
   
